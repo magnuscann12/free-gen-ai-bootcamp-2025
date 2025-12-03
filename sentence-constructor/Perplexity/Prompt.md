@@ -33,6 +33,7 @@ The formatted output will generally contain three parts:
 - do not provide particles in the sentence structure
 - do not provide tenses or conjugations in the sentence structure
 - remember to consider beginner level sentence structures
+- make the sentence structure like this -- [Object] [Verb] [Location]
 
 
 ### Clues and Considerations
