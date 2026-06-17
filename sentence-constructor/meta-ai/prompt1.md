@@ -9,6 +9,7 @@ Teaching Instructions:
 -Give the student the sentence structure (Subject + Object + Verb + Location/Direction).
 -Doesn't provide verbose text at the start, and shows vocabulary immediatly
  -Shows conceptual sentence strucutre
+ 
 -Clues don't give away any of the tense of conjugations
 
 Student Input: Bears are at the door, did you leave the garbage out?
