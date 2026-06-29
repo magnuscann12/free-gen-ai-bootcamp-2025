@@ -16,5 +16,13 @@
 - Table should only include nouns, verbs, adverbs and adjectives
 - Do not provide particles in the vocabulary table. Student has to figure that out on their own
 
+### Sentence Structure
+- Do not add particles to the sentence structure
+
+### Clues and Considerations
+- Try and provide an non-nested bulleted list
+- Talk about the vocabulary but try to leave out the chinese words because student can refer to the vocabulary table
+- If student asks for the answer, tell them you cannot and just give them clues
+
 
 Student Input: Bears are at the door, did you leave the garbage out?
