@@ -3,7 +3,7 @@
 
 The company wants to invest in owning their infrastructure. The reason is because they there is a concern about the privacy of user data and also a concern that the cost of managed services for GenAI will greatly raise in cost.
 
-They want to invest an AI PC where they can afford spend of 10-15K They have 300 active students, and students are located within the city of Accra.
+The company will use a cloud IDE like Lightening AI since they cannot afford an AI PC due to financial problems. There are 300 students to use this system in Accra
 
 **Assumptions**
 
