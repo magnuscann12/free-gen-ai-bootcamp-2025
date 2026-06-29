@@ -15,7 +15,7 @@
 ### Sentence Structure
 - Do not add particles to the sentence structure
 - Give the student the sentence structure (Subject + Object + Verb + Location/Direction).
-- Do not give out which ones are subject verb object and location
+- Do not give out which words are subject verb and object. just write [subject],[verb],[object],[location]
 - Shows conceptual sentence strucutre
 
 
