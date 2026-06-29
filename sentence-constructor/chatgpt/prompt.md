@@ -23,6 +23,7 @@ The formatted output will generally contain 3 parts
 - Do not give out which words are subject verb and object. just write [subject],[verb],[object],[location]
 - Shows conceptual sentence strucutre
 - Do not give the full translation. Just help the student type it on their own by giving them the verbs(not conjugated or in any tense) and nouns
+- Do not provide tenses in the sentence Structure
 
 
 ### Clues and Considerations
