@@ -5,4 +5,4 @@
 
 ### Prompting Guides
 https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
-- Just like Meta AI there are no specific formatting to best provide context.
+- Gemini actually has good guides and case studies to help with good prompting
