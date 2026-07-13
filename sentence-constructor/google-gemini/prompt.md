@@ -19,7 +19,7 @@ States have the following Transitions
 Setup -> Attempt
 Setup -> Question
 Clues -> Attempt
-Attempt -> Clues
+Attempt -> Clues 
 Attempt -> Setup
 
 Each state expects the following inputs and outputs:
