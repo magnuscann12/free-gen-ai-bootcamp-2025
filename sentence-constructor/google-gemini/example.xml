@@ -1,0 +1,46 @@
+<lesson>
+  <vocabulary_table>
+    <entry>
+      <english>bear</english>
+      <chinese>熊</chinese>
+      <pinyin>xióng</pinyin>
+    </entry>
+    <entry>
+      <english>door</english>
+      <chinese>门</chinese>
+      <pinyin>mén</pinyin>
+    </entry>
+    <entry>
+      <english>you</english>
+      <chinese>你</chinese>
+      <pinyin>nǐ</pinyin>
+    </entry>
+    <entry>
+      <english>to leave (behind)</include_in_verb>留</english>
+      <chinese>留</chinese>
+      <pinyin>liú</pinyin>
+    </entry>
+    <entry>
+      <english>garbage</english>
+      <chinese>垃圾</chinese>
+      <pinyin>lājī</pinyin>
+    </entry>
+    <entry>
+      <english>outside</english>
+      <chinese>外面</chinese>
+      <pinyin>wàimiàn</pinyin>
+    </entry>
+  </vocabulary_table>
+
+  <sentence_structure>
+    <part number="1" type="Statement">[Subject] + [Location] + [Verb]</part>
+    <part number="2" type="Question">[Subject] + [Verb] + [Object] + [Direction]</part>
+  </sentence_structure>
+
+  <clues_and_considerations>
+    <clue>To express that someone or something is located at a place, Chinese uses a specific verb of existence before the location. Think of it as saying "Bears are at door."</clue>
+    <clue>The second part of the sentence asks about an action that has already been completed. To show that an action is finished or has happened in the past, you will need to add a completion particle directly after the verb.</clue>
+    <clue>To indicate that the garbage was left out (directional change), place the direction word right after the main action.</clue>
+    <clue>Since the second part is a yes/no question, remember to end the entire thought with a question particle at the very end of the sentence.</clue>
+  </clues_and_considerations>
+</lesson>
