@@ -68,6 +68,7 @@ Assistant Output:
 - Write the verbs and nouns in a tabular form with the English, Chinese and Pinyin
 - Table should only include nouns, verbs, adverbs and adjectives
 - Do not provide particles in the vocabulary table. Student has to figure that out on their own
+- Do not use the words in the example file in the vocabulary table unless it is in the sentence provided by the student
 
 ### Sentence Structure
 - Do not add particles to the sentence structure
