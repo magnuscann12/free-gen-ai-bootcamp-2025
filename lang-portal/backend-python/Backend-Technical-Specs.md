@@ -10,12 +10,14 @@ things:
 ## Technical Requirements
 - The backend will be built using python
 - The database will be SQLite3
-- The API will be built using Flask
+- The API will be built using Django
 - The API will alaways return JSON
 - There will be no authentication or authorization
 - Everything will be treated as a single user
 
 ## Database Schema
+Our database will be a single sqlite database called 'words.db' that will be in the root of the project folder of 'backend-python'
+
 We will have the following tables
 - words : Stored vocabulary words
     - id integer
@@ -659,4 +661,38 @@ Drops all tables, re-creates schema, and re-seeds initial data.
 }
 ```
 
-## Scripts
+## Invoke Tasks
+Invoke is a task runner for Python
+Lets list our possible tasks for our langportal
+
+### Initialise Database
+This task will initialize sqlite database
+
+### Migrate Database
+This task will run a series of migrations sql files on the database
+Migrations live in the 'Migrations' folder
+The migration files will run in order of their file names
+The file name should look like thsi
+
+```sql
+0001_init.sql
+0002_create_words_table.sql
+```
+
+### Seed data 
+This will import JSON files and transform them into target data for our database
+
+All seeds files live in the 'seeds' folder
+All seed files should be loaded
+In our task we should have DSL to specific each seed file and its expected group word name
+
+
+ ```json
+[
+    {
+      "chinese": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello"
+    }
+]
+```
