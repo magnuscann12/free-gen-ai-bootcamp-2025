@@ -1,0 +1,39 @@
+[
+  {
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "hello",
+    "parts": {
+      "radical": "亻",
+      "stroke_count": 7
+    }
+  },
+  {
+    "chinese": "谢谢",
+    "pinyin": "xiè xie",
+    "english": "thank you",
+    "parts": {
+      "radical": "讠",
+      "stroke_count": 12
+    }
+  },
+  {
+    "chinese": "再见",
+    "pinyin": "zài jiàn",
+    "english": "goodbye",
+    "parts": {
+      "radical": "冂",
+      "stroke_count": 10
+    }
+  },
+  {
+    "chinese": "早上好",
+    "pinyin": "zǎo shang hǎo",
+    "english": "good morning"
+  },
+  {
+    "chinese": "晚上好",
+    "pinyin": "wǎn shang hǎo",
+    "english": "good evening"
+  }
+]
