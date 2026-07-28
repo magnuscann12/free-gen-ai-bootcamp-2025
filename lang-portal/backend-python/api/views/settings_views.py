@@ -27,30 +27,12 @@ def reset_history(request):
 
 
 def full_reset(request):
-    db_path = Path(settings.DATABASES["default"]["NAME"])
-
-    if db_path.exists():
-        db_path.unlink()
-
-    conn = sqlite3.connect(db_path)
-    migration_files = sorted(MIGRATIONS_DIR.glob("*.sql"))
-    for filepath in migration_files:
-        conn.executescript(filepath.read_text(encoding="utf-8"))
-        conn.execute(
-            "INSERT INTO schema_migrations (filename) VALUES (?)",
-            (filepath.name,),
-        )
-    conn.commit()
-    conn.close()
-
-    from invoke import Context
-    from tasks import seed_data
-
-    seed_data(Context())
-
+    # Note: For full reset, use command line: invoke full_reset
+    # This endpoint is complex to implement due to database connection management
     return json_response(
         {
-            "success": True,
-            "message": "Database has been fully reset with seed data",
-        }
+            "success": False,
+            "message": "Please use command line 'invoke full_reset' for full database reset",
+        },
+        status=501
     )
